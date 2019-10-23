@@ -11,12 +11,20 @@
 	        	{{ range .Params.contact_entries }}
 				<div>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					<a href="mailto:marketing@ether1.org">Marketing Department</a>
+					<br>
+					<a href="mailto:chris@ether1.org">Business Development</a>
+					<br>
+					<a href="mailto:ethan@ether1.org">Development Team</a>
+					<br>
+					<a href="mailto:communtiy@ether1.org">Community Management</a>
+					<br>
+					<br>
+					<h4 class="f4 b lh-title mb2 primary">Call Us on:</h4>
+					<a href="tel:888-700-3846">+1 888-700-3846</a>
 				</div>
 			{{ end }}
 		</div>
-
-		{{ partial "contact-form" . }}
 
 	</div>
 </div>
