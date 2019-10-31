@@ -1,6 +1,6 @@
 ---
-title: Weekly Marketing Team Update
-date: 2019-10-31T18:56:10.000Z
+title: Weekly Marketing Team Update - 1
+date: 2019-10-31T00:00:01.000Z
 description: >-
   Business Development/Marketing Team Update #1
 ---
